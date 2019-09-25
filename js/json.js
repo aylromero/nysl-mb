@@ -1,5 +1,5 @@
 {
-  "games":[
+  "games": [
     {
     "month":"September",
     "date": "Sep 1 9:30am",
@@ -157,27 +157,27 @@
   "teams": {
     "U1": {
       "name": "U1",
-      "shield": "https://ibb.co/GQhy81X"
+      "shield": "https://escudosdeclubes.files.wordpress.com/2017/12/club-social-y-deportivo-madryn-chu-01.png?w=590&h=590&crop=1"
     },
     "U2": {
       "name": "U2",
-      "shield": "https://ibb.co/4mSnVPq"
+      "shield": "https://escudosdeclubes.files.wordpress.com/2017/12/club-atletico-chaco-for-ever-cha-01.png?w=700&h=700"
     },
     "U3": {
       "name": "U3",
-      "shield": "https://ibb.co/Tgj5KbN"
+      "shield": "https://escudosdeclubes.files.wordpress.com/2017/12/club-gimnasia-y-esgrima-enr-01.png?w=700&h=700"
     },
     "U4": {
       "name": "U4",
-      "shield": "https://ibb.co/v3snnZf"
+      "shield": "https://escudosdeclubes.files.wordpress.com/2017/12/club-deportivo-juventud-unida-enr-01.png?w=700&h=700"
     },
     "U5": {
       "name": "U5",
-      "shield": "https://ibb.co/ZN7PNJy"
+      "shield": "https://escudosdeclubes.files.wordpress.com/2017/12/club-mutual-crucero-del-norte-mis-01.png?w=700&h=700"
     },
     "U6": {
       "name": "U6",
-      "shield": "https://ibb.co/cx9JFm7"
+      "shield": "https://escudosdeclubes.files.wordpress.com/2017/12/club-defensores-de-pronunciamiento-enr-01.png?w=700&h=700"
     }
   }
 

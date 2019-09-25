@@ -21,7 +21,7 @@ var app = new Vue({
     },
     methods: {
       getData: function(){
-          fetch("https://api.myjson.com/bins/ysovl",
+          fetch("https://next.json-generator.com/api/json/get/N1q2ZwVww",
               {method: "GET"})
           .then(function(response){
             return response.json();
@@ -41,7 +41,6 @@ var app = new Vue({
             console.log(error);
           })
       },
-
       teamName: function(){
         var a = Object.values(app.object.teams);
         app.teams = [];
@@ -69,7 +68,7 @@ var app = new Vue({
       filterGame: function(){
         app.filterData = [];
 
-          var b =app.games;
+          var b = app.games;
           for(let i=0; i<b.length; i++){
               if (b[i].month == app.monthSelected || app.monthSelected == "all") {
                 if (app.teamsObject[b[i].team].name == app.teamSelected || app.teamsObject[b[i].opponent].name == app.teamSelected||app.teamSelected == "all") {
@@ -113,7 +112,6 @@ var app = new Vue({
           app.monthSelected = 'all';
           app.teamSelected = 'all';
         }
-
       }
 
       },
