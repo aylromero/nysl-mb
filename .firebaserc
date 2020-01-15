@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "nysl-mb",
+    "nysl-mb": "nysl-mb"
+  }
+}
